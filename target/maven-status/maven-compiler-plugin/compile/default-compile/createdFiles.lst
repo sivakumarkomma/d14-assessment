@@ -1,0 +1,9 @@
+com/d14/assesment/abstraction/FilesWriter.class
+com/d14/assesment/abstraction/StringsWriter.class
+com/d14/assesment/implementation/LowercaseOperator.class
+com/d14/assesment/implementation/Operator.class
+com/d14/assesment/implementation/StupidRemoverOperator.class
+com/d14/assesment/implementation/DuplicateRemoverOperator.class
+com/d14/assesment/implementation/UppercaseOperator.class
+com/d14/assesment/WriterDemo.class
+com/d14/assesment/abstraction/Writer.class
