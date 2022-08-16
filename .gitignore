@@ -24,3 +24,5 @@ hs_err_pid*
 
 # Ignore myfile.dat
 myfile.dat
+.idea
+/target
